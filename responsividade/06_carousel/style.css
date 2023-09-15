@@ -1,0 +1,11 @@
+
+.mycarousel {
+    width: 100%;
+    margin: auto;
+  }
+
+@media screen and (min-width: 600px) {
+  .mycarousel {
+    width: 600px;
+  }
+}
